@@ -1,0 +1,29 @@
+{
+  "name": "for-all",
+  "version": "0.0.1",
+  "description": "A simple forAll implementation in node.js. Based on node-quickcheck.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yamadapc/node-for-all.git"
+  },
+  "keywords": [
+    "bdd",
+    "testing",
+    "quickcheck",
+    "helpers",
+    "functional"
+  ],
+  "author": "Pedro Yamada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamadapc/node-for-all/issues"
+  },
+  "devDependencies": {
+    "chance": "^0.5.6",
+    "mocha": "^1.19.0"
+  }
+}
