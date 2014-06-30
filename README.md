@@ -3,9 +3,6 @@ for-all
 
 A simple forAll implementation in node.js. Based on node-quickcheck.
 
-**This module has not been published yet on npm, though it should be ready for
-use.**
-
 ## Installing
 
 Install with `npm install for-all`.
