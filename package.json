@@ -24,6 +24,6 @@
   },
   "devDependencies": {
     "chance": "^0.5.6",
-    "mocha": "^1.19.0"
+    "mocha": "^2.4.1"
   }
 }
